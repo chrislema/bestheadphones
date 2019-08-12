@@ -1,8 +1,11 @@
 ---
 title: Blog
-menus:
-  secondary:
-    title: Blog
-    weight: 2
 layout: blog
+menu:
+  main:
+    weight: 2
+    title: Reviews
+  secondary:
+    weight: 3
+
 ---
