@@ -24,6 +24,9 @@ layout: body
       <div class="post-content">
         {{ content }}
       </div><!-- .post-content -->
+      <div class="post-comments">
+        <div id="replybox"></div>
+      </div>
       <footer class="post-meta">
         <time class="published"
           datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%A, %B %e, %Y' }}</time>
