@@ -2,6 +2,9 @@
 title: Contact
 layout: contact
 menu:
+  main:
+    weight: 4
+    title: Make Headphones?
   secondary:
     weight: 4
 
