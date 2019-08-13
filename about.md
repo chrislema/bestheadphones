@@ -1,18 +1,18 @@
 ---
-title: About Us
-subtitle: This is an optional subtitle. It can be used to describe what this page
-  is about.
-img_path: images/about.jpg
+title: About Me
+subtitle: ''
+img_path: "/v1565669783/HeadphoneChrisLema_uunoll.png"
 layout: page
 menu:
   secondary:
     weight: 1
-    title: About Me
   main:
     weight: 4
     title: About
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I'm picky about headphones - not because I'm an audiophile, but because I love music. And television. And movies. And the ability to listen to all of it without interruption. So headphones save the day for me. Every day.
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+I listen on planes - so active noise cancelling headphones make flying work for me. On road trips, I listen in the car and can't hear the kids. And when I'm working in my home office, I listen to studio headphones while I work.
+
+Did I mention that I also like to listen as I fall asleep? I can't tell you how many pairs of headphones I've broken. But hey, it's not my fault. Apparently that's a scenario most companies don't pay attention to.
