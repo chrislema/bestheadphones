@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: What's the Best Headphone for you?
+  title: Which headphones are best for you?
   component: hero_block.html
   content: 'The answer is always dependent on what you care most about. But as you
     read these reviews, you''ll get enough information to be able to make the decision
