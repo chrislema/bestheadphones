@@ -4,10 +4,11 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: This Is A Big Hero Headline
+  title: What's the Best Headphone for you?
   component: hero_block.html
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: 'The answer is always dependent on what you care most about. But as you
+    read these reviews, you''ll get enough information to be able to make the decision
+    on your own. '
   image: https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000/v1565677402/inmyhead_o6oe0w.png
   actions:
   - label: Start Reading
