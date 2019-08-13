@@ -16,7 +16,7 @@ footer:
   nav_title: Menu
   has_social: true
   social_title: Find me online
-  has_subscribe: true
+  has_subscribe: false
   subscribe_title: Subscribe
   subscribe_content: Get the latest reviews in your inbox
   content: "&copy; Chris Lema. All rights reserved."
