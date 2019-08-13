@@ -7,6 +7,7 @@ layout: page
 menu:
   secondary:
     weight: 1
+    title: About Me
   main:
     weight: 4
     title: About
