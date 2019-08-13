@@ -59,7 +59,7 @@ sections:
   - post
 upload_dir: ''
 public_path: https://res.cloudinary.com/chrislema/image/upload
-front_matter_path: ''
+front_matter_path: https://res.cloudinary.com/chrislema/image/upload
 use_front_matter_path: true
 file_template: ":filename:"
 build:
