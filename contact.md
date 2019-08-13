@@ -1,6 +1,8 @@
 ---
-title: Contact
+title: Want me to review your headphones?
 layout: contact
+subtitle: ''
+img_path: ''
 menu:
   main:
     weight: 4
@@ -9,4 +11,4 @@ menu:
     weight: 4
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula.
+If you manufacture headphones and you want someone to review them, I'm your guy. Get me your information below and I'm happy to follow up. If you send me a pair to review, I'm happy to review them, privately or on this site.
