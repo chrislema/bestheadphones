@@ -21,7 +21,7 @@ footer:
   subscribe_content: Get the latest reviews in your inbox
   content: "&copy; Chris Lema. All rights reserved."
   links:
-  - text: Stackbit. Jeykyll. Forestry.io. Netlify
+  - text: Built by Chris Lema using Stackbit. Jeykyll. Forestry.io. Netlify
     url: https://chrislema.com
     new_window: true
 sass:
