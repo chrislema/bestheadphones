@@ -10,8 +10,8 @@ sections:
     who need a sleek, modern SaaS site. '
   image: https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000/v1565677402/inmyhead_o6oe0w.png
   actions:
-  - label: Learn More
-    url: "/features"
+  - label: Start Reading
+    url: "/blog"
 - type: postsblock
   template: postsblock
   section_id: recent-posts
