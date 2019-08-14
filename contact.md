@@ -4,11 +4,11 @@ layout: contact
 subtitle: ''
 img_path: ''
 menu:
-  main:
-    weight: 3
-    title: Make Headphones?
   secondary:
     weight: 3
+    title: Make Headphones?
+  main:
+    weight: 4
     title: Make Headphones?
 
 ---

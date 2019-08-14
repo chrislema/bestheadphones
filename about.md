@@ -1,13 +1,13 @@
 ---
 title: About Me
 subtitle: ''
-img_path: "https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000/v1565669783/HeadphoneChrisLema_uunoll.png"
+img_path: https://res.cloudinary.com/chrislema/image/upload/ar_16:9,c_fill/c_scale,w_auto/c_limit,w_1000/v1565669783/HeadphoneChrisLema_uunoll.png
 layout: page
 menu:
   secondary:
     weight: 1
   main:
-    weight: 4
+    weight: 5
     title: About
 
 ---
