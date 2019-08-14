@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- member-welcome.md
 - create-an-account.md
 - members-only-buyer-s-guide.md
 - about.md
