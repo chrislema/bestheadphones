@@ -3,6 +3,10 @@ layout: page
 title: Login
 subtitle: ''
 img_path: ''
+menu:
+  secondary:
+    weight: 4
+    title: Members
 
 ---
 
