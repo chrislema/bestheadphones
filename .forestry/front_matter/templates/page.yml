@@ -24,10 +24,10 @@ fields:
   config:
     required: true
 pages:
+- member-welcome.md
 - profile.md
 - login.md
 - create-an-account.md
-- member-welcome.md
 - members-only-buyer-s-guide.md
 - about.md
 - style-guide.md
