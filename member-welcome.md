@@ -5,7 +5,9 @@ subtitle: ''
 img_path: ''
 
 ---
-Welcome to the Basic Membership.
+## Welcome to Your Member Dashboard
 
-* Review your <a href="#" ms-profile="true">Profile Details</a>
-* Check out our [Buyer's Guide.](https://bestheadphones.blog/members-only-buyer-s-guide/ "Buyer's Guide")
+<ul>
+<li>Review your <a href="https://bestheadphones.blog/profile/" ms-profile="true" >Profile details.</a></li>
+<li>Check out our <a href="https://bestheadphones.blog/members-only-buyer-s-guide/">Buyer's Guide.</a></li>
+</ul>
