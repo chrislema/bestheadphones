@@ -7,7 +7,7 @@ menu:
   secondary:
     weight: 1
   main:
-    weight: 5
+    weight: 4
     title: About
 
 ---

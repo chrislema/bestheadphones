@@ -8,7 +8,7 @@ menu:
     weight: 3
     title: Make Headphones?
   main:
-    weight: 4
+    weight: 3
     title: Make Headphones?
 
 ---
