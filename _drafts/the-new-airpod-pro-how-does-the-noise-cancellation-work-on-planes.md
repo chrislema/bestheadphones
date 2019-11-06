@@ -9,3 +9,4 @@ excerpt: 'For the most part, because of the size and battery life, these will be
   for people who want a single, multi-purpose pair of noose cancelling headphones. '
 
 ---
+Stepping onto the plane, wearing my new AirPods Pro, I was ready to try a pair of noise cancelling headphones that didn’t require me to take off my hat. 
