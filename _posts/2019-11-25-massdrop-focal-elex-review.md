@@ -27,9 +27,9 @@ Open-back headphones are best when you don't have to worry about others hearing 
 
 Open-back headphones deliver a better experience when you're listening for long periods of time, want to be aware of your surroundings (because sound comes in), and don't mind that some sound is leaking (as it goes out the open back).
 
-Normally, I'd tell you to check out headphones like the [**AKG Pro Audio K712 **](https://amzn.to/2Da6M0f "AKG Pro Audio K712")or [**Sennheiser HD 600**](https://amzn.to/2XNzIED "Sennheiser HD 600")**.** 
+Normally, I'd tell you to check out headphones like the [**AKG Pro Audio K712**](https://amzn.to/2Da6M0f "AKG Pro Audio K712") or [**Sennheiser HD 600**](https://amzn.to/2XNzIED "Sennheiser HD 600")**.**
 
-But this review is for the [**Massdrop Focal Elex**](https://drop.com/buy/massdrop-x-focal-elex-headphones/ "Focal ") because they're my new favorites! We'll get there in a just a second....but first, 
+But this review is for the [**Massdrop Focal Elex**](https://drop.com/buy/massdrop-x-focal-elex-headphones/ "Focal ") because they're my new favorites! We'll get there in a just a second....but first,
 
 **When are closed-back headphones the right choice?**
 
@@ -69,7 +69,7 @@ Headphones of this weight, like the Elex, can make your neck sore. I know folks 
 
 **How did they hold up in bed?**
 
-On my old headphones blog I would rate the headphones and one of my consistent ratings was on how sturdy they were. One of my tests was to wear them in bed. 
+On my old headphones blog I would rate the headphones and one of my consistent ratings was on how sturdy they were. One of my tests was to wear them in bed.
 
 You might ask why?
 
@@ -81,7 +81,7 @@ So how did the Elex pair do? Excellently. For two nights I took them up to bed, 
 
 So the final verdict is that I'll be taking these with me for my hotel stays as I travel. I won't use them on the plane, but since I'm used to carrying two pairs of over-the-ear headphones, it won't be a problem.
 
-Can I tell you what else I'll be carrying with me? Beyond [**my Tidal account for hifi music **](https://tidal.com/ "my Tidal account for hifi music")downloads? Here is what's going in my bag with these headphones:
+Can I tell you what else I'll be carrying with me? Beyond [my Tidal account for hifi music](https://tidal.com/ "my Tidal account for hifi music")  downloads? Here is what's going in my bag with these headphones:
 
 * [**Pioneer hi-res Digital Audio Player XDP-300R**](https://amzn.to/35vKAtt "Pioneer hi-res Digital Audio Player XDP-300R")
 * [**Apogee GROOVE - Portable USB Headphone Amp and DAC**](https://amzn.to/37C8tl6 "Apogee GROOVE - Portable USB Headphone Amp and DAC")
