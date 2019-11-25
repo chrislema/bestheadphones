@@ -37,5 +37,6 @@ fields:
   config:
     required: true
 pages:
+- _posts/massdrop-focal-elex-review.md
 - _posts/2019-11-18-apple-airpods-pro-vs-sony-wf-1000xm3-who-wins.md
 - _posts/2019-11-06-the-new-airpod-pro-how-does-the-noise-cancellation-work-on-planes.md
